@@ -1,0 +1,6 @@
+altgraph==0.17.5
+macholib==1.16.4
+modulegraph==0.19.7
+packaging==26.3
+py2app==0.28.10
+setuptools==84.0.0
